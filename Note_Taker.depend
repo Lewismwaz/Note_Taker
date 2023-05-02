@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1681918213 source:d:\projects\c++\note_taker\note_taker.cpp
+	<iostream>
+	<fstream>
+
+1681985028 source:c:\my repositories\note_taker\note_taker.cpp
+	<iostream>
+	<fstream>
+

@@ -1,0 +1,3 @@
+
+This is a command-line note-taking app built using C++. This app uses less memory and power (CLI) over GUI apps like Word and the rest. The text file is saved in the current directory.
+
